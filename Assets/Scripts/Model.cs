@@ -3,7 +3,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics.Tracing;
-using UnityEditor.SpeedTree.Importer;
 using UnityEngine;
 using UnityEngine.UI;
 
